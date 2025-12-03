@@ -1,0 +1,8 @@
+/faculty-system/
+├── config.php
+├── auth_check.php
+├── styles.css
+├── test_connection.php
+├── coordinator/ [empty for now]
+├── student/ [empty for now]
+└── auth/ [empty for now]
