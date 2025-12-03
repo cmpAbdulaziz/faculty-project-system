@@ -1,0 +1,60 @@
+INSERT INTO projects (title, student_name, supervisor_name, year_of_submission, availability_status, department_id) VALUES
+-- Computer Science Projects (Department ID 1)
+('Sentiment Analysis of Nigerian Social Media', 'Pending Assignment', 'Prof. Zainab Hassan', 2021, 'available', 1),
+('Design of a Decentralized Voting System using Blockchain', 'Pending Assignment', 'Prof. Zainab Hassan', 2022, 'available', 1),
+('Development of a Predictive Maintenance Model for IoT Devices', 'Pending Assignment', 'Dr. Ladi Audu', 2021, 'available', 1),
+('Optimization of Web Application Load Times', 'Pending Assignment', 'Prof. Zainab Hassan', 2022, 'available', 1),
+('Deep Learning for Medical Image Classification', 'Pending Assignment', 'Prof. Chijioke Okoro', 2022, 'available', 1),
+('A Comparative Study of Agile Methodologies', 'Pending Assignment', 'Prof. Zainab Hassan', 2021, 'available', 1),
+('Implementation of a Home Automation System using Raspberry Pi', 'Pending Assignment', 'Prof. Zainab Hassan', 2022, 'available', 1),
+('Cybersecurity Risk Assessment for Small Businesses', 'Pending Assignment', 'Dr. Emeka Nduka', 2022, 'available', 1),
+('Natural Language Generation for Report Summarization', 'Pending Assignment', 'Prof. Chijioke Okoro', 2024, 'available', 1),
+('Virtual Reality Simulation for Educational Training', 'Pending Assignment', 'Prof. Zainab Hassan', 2021, 'available', 1),
+
+-- Statistics Projects (Department ID 2)
+('Time Series Forecasting of Inflation Rates in Nigeria', 'Pending Assignment', 'Dr. Emeka Nduka', 2021, 'available', 2),
+('Survival Analysis of Cancer Patients', 'Pending Assignment', 'Dr. Ladi Audu', 2021, 'available', 2),
+('Application of Generalized Linear Models in Epidemiology', 'Pending Assignment', 'Dr. Ladi Audu', 2023, 'available', 2),
+('Non-Parametric Methods for Small Sample Data', 'Pending Assignment', 'Dr. Ahmed Abubakar', 2024, 'available', 2),
+('Design and Analysis of Clinical Trials', 'Pending Assignment', 'Prof. Chijioke Okoro', 2024, 'available', 2),
+('Bayesian Approach to A/B Testing', 'Pending Assignment', 'Dr. Emeka Nduka', 2024, 'available', 2),
+('Statistical Process Control in Manufacturing', 'Pending Assignment', 'Dr. Ladi Audu', 2024, 'available', 2),
+('Data Mining Techniques for Customer Segmentation', 'Pending Assignment', 'Prof. Chijioke Okoro', 2023, 'available', 2),
+('Modeling Extreme Events using GARCH', 'Pending Assignment', 'Dr. Ahmed Abubakar', 2022, 'available', 2),
+('Multilevel Modeling for Educational Data', 'Pending Assignment', 'Prof. Chijioke Okoro', 2022, 'available', 2),
+
+-- Mathematics Projects (Department ID 3)
+('Numerical Solutions to Partial Differential Equations', 'Pending Assignment', 'Dr. Ladi Audu', 2021, 'available', 3),
+('Application of Abstract Algebra in Cryptography', 'Pending Assignment', 'Dr. Emeka Nduka', 2024, 'available', 3),
+('Topology of Manifolds and Surfaces', 'Pending Assignment', 'Prof. Chijioke Okoro', 2023, 'available', 3),
+('Optimization Theory and Linear Programming', 'Pending Assignment', 'Prof. Zainab Hassan', 2024, 'available', 3),
+('Mathematical Modeling of Epidemic Spread', 'Pending Assignment', 'Prof. Chijioke Okoro', 2021, 'available', 3),
+('Chaos Theory and Fractal Geometry', 'Pending Assignment', 'Dr. Emeka Nduka', 2021, 'available', 3),
+('Differential Games and Control Theory', 'Pending Assignment', 'Prof. Chijioke Okoro', 2023, 'available', 3),
+('Finite Element Method for Fluid Dynamics', 'Pending Assignment', 'Prof. Zainab Hassan', 2021, 'available', 3),
+('Fuzzy Logic Applications in Decision Making', 'Pending Assignment', 'Dr. Emeka Nduka', 2021, 'available', 3),
+('Graph Theory in Network Routing', 'Pending Assignment', 'Dr. Ladi Audu', 2021, 'available', 3),
+
+-- Geology Projects (Department ID 4)
+('Geochemical Analysis of Igneous Rocks in Northern Nigeria', 'Pending Assignment', 'Dr. Ladi Audu', 2021, 'available', 4),
+('Hydrogeology of the Sokoto Basin Aquifer', 'Pending Assignment', 'Prof. Chijioke Okoro', 2021, 'available', 4),
+('Remote Sensing for Mineral Exploration', 'Pending Assignment', 'Dr. Ladi Audu', 2023, 'available', 4),
+('Structural Interpretation of Seismic Data', 'Pending Assignment', 'Dr. Emeka Nduka', 2023, 'available', 4),
+('Environmental Impact Assessment of Quarry Operations', 'Pending Assignment', 'Dr. Ladi Audu', 2021, 'available', 4),
+('Paleontological Study of Cretaceous Sediments', 'Pending Assignment', 'Prof. Chijioke Okoro', 2021, 'available', 4),
+('Petrological Study of Metamorphic Facies', 'Pending Assignment', 'Prof. Zainab Hassan', 2023, 'available', 4),
+('Analysis of Landslide Susceptibility in Hilly Terrains', 'Pending Assignment', 'Prof. Chijioke Okoro', 2021, 'available', 4),
+('Geophysical Survey for Groundwater Potential', 'Pending Assignment', 'Dr. Ahmed Abubakar', 2023, 'available', 4),
+('Tectonic Evolution of the Benue Trough', 'Pending Assignment', 'Dr. Ladi Audu', 2022, 'available', 4),
+
+-- Physics Projects (Department ID 5)
+('Quantum Computing Algorithms Simulation', 'Pending Assignment', 'Dr. Emeka Nduka', 2022, 'available', 5),
+('Experimental Study of Thin Film Solar Cells', 'Pending Assignment', 'Prof. Zainab Hassan', 2023, 'available', 5),
+('Modeling of Stellar Evolution in Globular Clusters', 'Pending Assignment', 'Dr. Emeka Nduka', 2022, 'available', 5),
+('Application of Laser Physics in Material Processing', 'Pending Assignment', 'Prof. Chijioke Okoro', 2024, 'available', 5),
+('Thermodynamic Analysis of Renewable Energy Systems', 'Pending Assignment', 'Prof. Chijioke Okoro', 2023, 'available', 5),
+('Investigation of Graphene Properties using DFT', 'Pending Assignment', 'Prof. Chijioke Okoro', 2021, 'available', 5),
+('Nuclear Spectroscopy of Radioactive Isotopes', 'Pending Assignment', 'Prof. Zainab Hassan', 2022, 'available', 5),
+('Electromagnetic Wave Propagation in Plasma', 'Pending Assignment', 'Dr. Ladi Audu', 2024, 'available', 5),
+('Development of a Portable Radiation Detector', 'Pending Assignment', 'Prof. Chijioke Okoro', 2024, 'available', 5),
+('Computational Fluid Dynamics of Airfoils', 'Pending Assignment', 'Dr. Ahmed Abubakar', 2021, 'available', 5);
